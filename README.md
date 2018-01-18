@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/psmyrdek/ng-up/master/images/logo.png)
+
 <h2 align="center">Up! - Angular Upgrade Toolkit</h2>
 
 ## Installation
