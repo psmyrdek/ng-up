@@ -1,0 +1,6 @@
+{
+    "extends": "@smartrecruiters/eslint-config/node/main",
+    "rules": {
+        "no-console": "off"
+    }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "ng-up",
+  "version": "0.0.1",
+  "description": "Up! - Angular Upgrade Toolkit",
+  "main": "index.js",
+  "bin": {
+    "ng-up": "./bin/ng-up.js"
+  },
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psmyrdek/ng-up.git"
+  },
+  "keywords": [
+    "angular",
+    "angularjs",
+    "upgrade",
+    "migration",
+    "template"
+  ],
+  "author": "psmyrdek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/psmyrdek/ng-up/issues"
+  },
+  "homepage": "https://github.com/psmyrdek/ng-up#readme",
+  "dependencies": {
+    "chalk": "2.3.0",
+    "commander": "2.13.0",
+    "create-angular-template": "0.5.1",
+    "glob": "7.1.2"
+  },
+  "devDependencies": {
+    "@smartrecruiters/eslint-config": "3.0.0",
+    "eslint": "4.13.1"
+  },
+  "engines": {
+    "node": ">= 8.9"
+  }
+}
