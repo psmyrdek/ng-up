@@ -1,14 +1,14 @@
-![Banner](https://raw.githubusercontent.com/psmyrdek/ng-up/master/images/logo.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/psmyrdek/ng-up/master/images/logo.png"/>
+</p>
 
-<h2 align="center">Up! - Angular Upgrade Toolkit</h2>
+<h1 align="center">Up! - Angular Upgrade Toolkit</h1>
 
-## Installation
+<p align="center">Make migration to Angular smoother.</p>
 
-Install as global util:
+### Installation
 
 `npm install -g ng-up`
-
-## Features
 
 ### Templates
 
