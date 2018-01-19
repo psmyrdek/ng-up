@@ -6,6 +6,15 @@
 
 <p align="center">Make migration to Angular smoother.</p>
 
+<p align="center">
+  <a href="https://travis-ci.org/psmyrdek/ng-up">
+    <img alt="Travis" src="https://travis-ci.org/psmyrdek/ng-up.svg?branch=master">
+  </a>
+  <a href="https://www.npmjs.com/package/ng-up">
+    <img alt="NPM Version" src="https://img.shields.io/npm/v/ng-up.svg">
+  </a>
+</p>
+
 ### Installation
 
 `npm install -g ng-up`
