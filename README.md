@@ -38,6 +38,7 @@ Options:
 -f, --format [format]                Format (syntax) of template (default: html)
 -b, --bindToCurlyBraces [bind]       Transform ng-bind to curly braces binding (default: false)
 -c, --classListToRemove [classList]  Comma separated list of classes to remove (default: ng-hide)
+-d, --dry                            Dry run - see command output
 -h, --help                           output usage information
 ```
 
@@ -63,6 +64,7 @@ Options:
 
 ```
 -n, --name <serviceName>  Name of AngularJS service
+-d, --dry                 Dry run - see command output
 -h, --help                output usage information
 ```
 
