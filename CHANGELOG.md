@@ -1,6 +1,6 @@
 ## ng-up - changelog
 
-### 0.0.2
+### 0.2.0
 
 * Dry run - check results of each command without modifying your file system
 * Internal refactor
