@@ -1,4 +1,5 @@
-const transformTemplates = require('../lib/templates')
+const command = require('../lib/templates/command')
+const getGlobalOptions = require('../lib/common/getGlobalOptions')
 
 const defaults = {
     pattern: '**/*.html',
@@ -17,7 +18,10 @@ const program = require('commander')
     .option('-b, --bindToCurlyBraces [bind]', 'Transform ng-bind to curly braces binding', defaults.bindToCurlyBraces)
     .option('-c, --classListToRemove [classList]', 'Comma separated list of classes to remove',
         defaults.classListToRemove)
+    .option('-d, --dry', 'Dry run - see command output')
     .parse(process.argv)
+
+const globalOptions = getGlobalOptions(program)
 
 const options = {
     pattern: program.pattern,
@@ -30,4 +34,4 @@ const options = {
     }
 }
 
-transformTemplates(options)
+command(globalOptions, options)
