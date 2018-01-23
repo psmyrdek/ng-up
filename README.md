@@ -17,6 +17,8 @@
 
 ### Installation
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/psmyrdek/ng-up.svg)](https://greenkeeper.io/)
+
 `npm install -g ng-up`
 
 ### Templates
