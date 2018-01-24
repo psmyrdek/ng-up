@@ -29,12 +29,12 @@
   "dependencies": {
     "chalk": "2.3.0",
     "commander": "2.13.0",
-    "create-angular-template": "0.5.1",
+    "create-angular-template": "1.0.0",
     "glob": "7.1.2"
   },
   "devDependencies": {
     "@smartrecruiters/eslint-config": "3.0.0",
-    "eslint": "4.13.1"
+    "eslint": "4.16.0"
   },
   "engines": {
     "node": ">= 8.9"

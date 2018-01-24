@@ -13,6 +13,9 @@
   <a href="https://www.npmjs.com/package/ng-up">
     <img alt="NPM Version" src="https://img.shields.io/npm/v/ng-up.svg">
   </a>
+  <a href="https://greenkeeper.io">
+    <img alt="Greenkeeper" src="https://badges.greenkeeper.io/psmyrdek/ng-up.svg">
+  </a>
 </p>
 
 ### Installation
