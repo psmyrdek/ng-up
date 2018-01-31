@@ -135,7 +135,7 @@ export const AmazingServiceProvider = {
     useFactory: AmazingServiceFactory
 }
 ```
-Name of the file matches service for which you're creating this provider: `amazing-service.provider.js`
+Name of the file matches service for which you're creating this provider: `amazing-service.provider.ts`
 
 Having this file created, now you can import it and include as a provider inside of Angular module - `AmazingService` is ready to use!
 

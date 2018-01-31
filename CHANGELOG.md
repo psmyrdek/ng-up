@@ -1,4 +1,8 @@
-## ng-up - changelog
+# ng-up - changelog
+
+#### 0.3.1
+
+* Fixes bug fix .js provider extension
 
 ### 0.3.0
 
