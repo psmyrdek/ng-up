@@ -8,3 +8,8 @@ install:
 
 script:
   - npm run lint
+  
+branches:
+  only:
+  - master
+  - /^greenkeeper/.*$/
