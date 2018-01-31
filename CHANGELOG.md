@@ -1,5 +1,9 @@
 ## ng-up - changelog
 
+### 0.3.0
+
+* Better README - understand how does the Up! work and what is the output of each command.
+
 ### 0.2.0
 
 * Dry run - check results of each command without modifying your file system
