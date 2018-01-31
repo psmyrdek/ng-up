@@ -1,4 +1,12 @@
-## ng-up - changelog
+# ng-up - changelog
+
+#### 0.3.1
+
+* Fixes bug fix .js provider extension
+
+### 0.3.0
+
+* Better README - understand how does the Up! work and what is the output of each command.
 
 ### 0.2.0
 
