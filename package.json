@@ -28,13 +28,13 @@
   "homepage": "https://github.com/psmyrdek/ng-up#readme",
   "dependencies": {
     "chalk": "2.3.2",
-    "commander": "2.14.0",
+    "commander": "2.15.0",
     "create-angular-template": "1.0.0",
     "glob": "7.1.2"
   },
   "devDependencies": {
     "@smartrecruiters/eslint-config": "3.0.0",
-    "eslint": "4.18.1"
+    "eslint": "4.18.2"
   },
   "engines": {
     "node": ">= 8.9"
