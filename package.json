@@ -34,7 +34,7 @@
   },
   "devDependencies": {
     "@smartrecruiters/eslint-config": "3.0.0",
-    "eslint": "4.18.2"
+    "eslint": "4.19.0"
   },
   "engines": {
     "node": ">= 8.9"
