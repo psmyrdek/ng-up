@@ -1,6 +1,6 @@
 {
   "name": "ng-up",
-  "version": "0.3.1",
+  "version": "1.0.0",
   "description": "Up! - Angular Upgrade Toolkit",
   "main": "index.js",
   "bin": {
