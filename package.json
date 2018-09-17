@@ -28,7 +28,7 @@
   "homepage": "https://github.com/psmyrdek/ng-up#readme",
   "dependencies": {
     "chalk": "2.4.0",
-    "commander": "2.16.0",
+    "commander": "2.18.0",
     "create-angular-template": "1.0.0",
     "glob": "7.1.3"
   },
