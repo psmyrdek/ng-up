@@ -29,7 +29,7 @@
   "dependencies": {
     "chalk": "2.4.2",
     "commander": "2.20.0",
-    "create-angular-template": "2.0.0",
+    "create-angular-template": "3.0.0",
     "glob": "7.1.4"
   },
   "devDependencies": {
