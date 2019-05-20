@@ -1,6 +1,11 @@
 # ng-up - changelog
 
-#### 0.3.1
+### 3.0.0
+
+* Requires node.js 10.15.0
+* Fresh deps
+
+### 0.3.1
 
 * Fixes bug fix .js provider extension
 
