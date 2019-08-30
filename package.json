@@ -33,7 +33,7 @@
     "glob": "7.1.4"
   },
   "devDependencies": {
-    "@smartrecruiters/eslint-config": "4.3.0",
+    "@smartrecruiters/eslint-config": "5.0.0",
     "eslint": "5.16.0"
   },
   "engines": {
