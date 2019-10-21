@@ -30,7 +30,7 @@
     "chalk": "2.4.2",
     "commander": "2.20.0",
     "create-angular-template": "3.0.0",
-    "glob": "7.1.4"
+    "glob": "7.1.5"
   },
   "devDependencies": {
     "@smartrecruiters/eslint-config": "4.3.0",
